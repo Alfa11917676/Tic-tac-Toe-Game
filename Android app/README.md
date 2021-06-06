@@ -1,4 +1,3 @@
-### Its about our childhood favorite game Tic-tac-toe this game has Two version web version and android version
 ##  DEMO
 ![20210516_232025](https://user-images.githubusercontent.com/62868878/118407288-c8ce0e00-b69d-11eb-925e-3bda282afd40.gif)
 
@@ -14,4 +13,9 @@
 ![image](https://user-images.githubusercontent.com/62868878/118407107-bd2e1780-b69c-11eb-8c1e-d03238bf1db8.png)
 ## Player Won PopUp
 ![image](https://user-images.githubusercontent.com/62868878/118407124-d931b900-b69c-11eb-97c6-61b320796b7d.png)
+
+
+### Thank you........
+
+
 
