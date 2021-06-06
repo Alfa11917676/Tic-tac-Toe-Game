@@ -1,4 +1,4 @@
-# its about our childhood favorite game Tic-tac-toe this game has Two version web version and android version
+### Its about our childhood favorite game Tic-tac-toe this game has Two version web version and android version
 ##  DEMO
 ![20210516_232025](https://user-images.githubusercontent.com/62868878/118407288-c8ce0e00-b69d-11eb-925e-3bda282afd40.gif)
 
