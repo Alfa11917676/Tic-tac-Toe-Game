@@ -4,7 +4,6 @@
 ![20210516_232025](https://user-images.githubusercontent.com/62868878/118407288-c8ce0e00-b69d-11eb-925e-3bda282afd40.gif)
 ## Splash Screen
 ![image](https://user-images.githubusercontent.com/62868878/118407058-88ba5b80-b69c-11eb-947a-afdb080c08dd.png)
-
 ## Home UI
 ![image](https://user-images.githubusercontent.com/62868878/118407071-94a61d80-b69c-11eb-878e-32400a6285cd.png)
 ## Settings UI
@@ -14,3 +13,4 @@
 ## Player Won PopUp
 ![image](https://user-images.githubusercontent.com/62868878/118407124-d931b900-b69c-11eb-97c6-61b320796b7d.png)
 
+#### thank you.......
